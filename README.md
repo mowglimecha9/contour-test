@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 
 ## FIRST THINGS FIRST
-`npm installl` to install all the packages
+`npm install` to install all packages
 
 ### `yarn start`
 
