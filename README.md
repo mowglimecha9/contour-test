@@ -4,6 +4,10 @@
 
 In the project directory, you can run:
 
+
+## FIRST THINGS FIRST
+`npm installl` to install all the packages
+
 ### `yarn start`
 
 This command will run 2 scripts
